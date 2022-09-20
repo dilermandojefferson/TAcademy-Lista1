@@ -1,0 +1,2 @@
+indice_candidato = {1: 'João', 2: 'Maria', 3: 'Bolso', 4: 'Lulinha', 5: 'Voto Nulo', 6: 'Voto em Branco'}
+contagem_voto = {'João': 0, 'Maria' : 0, 'Bolso': 0, 'Lulinha': 0, 'Voto Nulo': 0, 'Voto em Branco': 0} 
